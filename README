@@ -1,0 +1,17 @@
+Embed.ly Challenge
+===
+
+I did the three puzzles for fun and am putting them up here for posterity. The
+second file (pstddev.rb) requires nokogiri which may be a pain to install.
+
+All solutions tested on ruby 1.9.3-p0 on Ubuntu.
+
+
+Notes
+===
+
+fac.rb - Just a basic memoized factorial algorithm.
+
+pstddev.rb - Parse with Nokogiri, recursive counting solution.
+
+zipf.rb - The only tricky part of this puzzle was a couple of off-by-one mistakes.
